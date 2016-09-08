@@ -1,6 +1,6 @@
 #Simple Boiler
 
-A simple boilerplate for deploying static assets to heroku.
+ boilerplate for deploying static assets to heroku.
 
 ###GETTING STARTED
 
